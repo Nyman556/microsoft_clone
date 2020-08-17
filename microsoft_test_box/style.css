@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+ul {
+    list-style: none;
+}
+#hero {
+    
+    background-image: url("https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4AF7c?ver=7f65&q=0&m=8&h=303&w=539&b=%23FFFFFFFF&l=f&x=1129&y=918&s=769&d=432&aim=true");
+    background-repeat: no-repeat;
+    width: 539px;
+    height: 400px;
+}
+.surface_book_banner {
+    background-image: url("https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4zr9t?ver=2fd2&q=0&m=8&h=303&w=539&b=%23FFFFFFFF&l=f&x=0&y=317&s=1097&d=617&aim=true");
+    background-repeat: no-repeat;
+    width: 539px;
+    height: 400px;
+}
+footer {
+    background-color: lightgray;
+}
+
